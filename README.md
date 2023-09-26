@@ -3,7 +3,7 @@
  This is a simple calendar application that allows the user to save events for each hour of a typical working day (9am-5pm). This app is meant to run in a browser and will feature updated HTML and CSS powered by jQuery. The necessary requirements of creating this was to ensure complete functionality of being able to save data and showcase it for each timed event that occured on the users schedule. The challenges that were faced when creating this calendar was being able to demonstrate the proper use of local storage of all data that occured from each of the timed events on the calendar. The goal was making sure every saved event occured from the schedule and was put into the local storage with all input from HTML, CSS, and JavaScript. Being able to familiarze with all the new information proved to be quite difficult, but a lot of progress was made to ensure that the current date and time for the header was displayed properly. The time blocks for the various hours were displayed with indication regareding past, present, and future times. 
 
  # Live Site Application
- [Link to Deployed Application]()
+ [Link to Deployed Application](https://artvargas.github.io/WorkDayScheduler5/git add )
 
  # Resource URL
 [Link to Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
