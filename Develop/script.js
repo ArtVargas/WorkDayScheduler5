@@ -67,6 +67,7 @@ var myDay= [
   },
 ]
 
+// variables for variety of time inclusions//
 
 
 
